@@ -1,7 +1,6 @@
 {
     "name":"MyPWA",
     "short_name":"",
-    "start_url" : "/",
     "icons":
     [
         {
